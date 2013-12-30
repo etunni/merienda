@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth" format="1">
+  <advance width="596"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <contour>
+      <point x="327" y="899" type="curve" smooth="yes" name="hr00"/>
+      <point x="241" y="899" smooth="yes"/>
+      <point x="166" y="856" smooth="yes"/>
+      <point x="166" y="784" type="curve" smooth="yes"/>
+      <point x="166" y="749"/>
+      <point x="194" y="719"/>
+      <point x="232" y="719" type="curve"/>
+      <point x="232" y="795" smooth="yes"/>
+      <point x="269" y="835" smooth="yes"/>
+      <point x="328" y="835" type="curve" smooth="yes"/>
+      <point x="457" y="835"/>
+      <point x="470" y="583"/>
+      <point x="470" y="491" type="curve"/>
+      <point x="425" y="518" smooth="yes"/>
+      <point x="374" y="531" smooth="yes"/>
+      <point x="325" y="531" type="curve" smooth="yes"/>
+      <point x="186" y="531" smooth="yes"/>
+      <point x="55" y="423" smooth="yes"/>
+      <point x="55" y="231" type="curve" smooth="yes"/>
+      <point x="55" y="65" smooth="yes"/>
+      <point x="152" y="-15" smooth="yes"/>
+      <point x="264" y="-15" type="curve" smooth="yes"/>
+      <point x="475" y="-15" smooth="yes"/>
+      <point x="566" y="247" smooth="yes"/>
+      <point x="566" y="494" type="curve" smooth="yes"/>
+      <point x="566" y="669" smooth="yes"/>
+      <point x="499" y="899" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="286" y="47" type="curve" smooth="yes"/>
+      <point x="201" y="47" smooth="yes"/>
+      <point x="158" y="115" smooth="yes"/>
+      <point x="158" y="225" type="curve" smooth="yes"/>
+      <point x="158" y="377" smooth="yes"/>
+      <point x="242" y="474" smooth="yes"/>
+      <point x="345" y="474" type="curve" smooth="yes"/>
+      <point x="380" y="474"/>
+      <point x="431" y="462"/>
+      <point x="469" y="438" type="curve"/>
+      <point x="462" y="240" smooth="yes"/>
+      <point x="404" y="47" smooth="yes"/>
+    </contour>
+    <component  base="eslash" xScale="0.9" yScale="0.9" xOffset="337" yOffset="273"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-15" width="62" />
+      <hstem pos="474" width="57" />
+      <hstem pos="835" width="64" />
+      <vstem pos="55" width="103" />
+      <vstem pos="166" width="66" />
+      <vstem pos="469" width="97" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="321"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="207" y="88" type="curve" smooth="yes"/>
+      <point x="209" y="275" smooth="yes"/>
+      <point x="257" y="438" smooth="yes"/>
+      <point x="257" y="497" type="curve" smooth="yes" name="hr01"/>
+      <point x="257" y="558" smooth="yes"/>
+      <point x="232" y="583" smooth="yes"/>
+      <point x="154" y="583" type="curve" smooth="yes"/>
+      <point x="142" y="583"/>
+      <point x="124" y="582"/>
+      <point x="113" y="581" type="curve"/>
+      <point x="119" y="548" smooth="yes"/>
+      <point x="119" y="513" smooth="yes"/>
+      <point x="119" y="479" type="curve" smooth="yes"/>
+      <point x="119" y="377" smooth="yes"/>
+      <point x="87" y="252" smooth="yes"/>
+      <point x="87" y="164" type="curve" smooth="yes" name="hr02"/>
+      <point x="87" y="67"/>
+      <point x="110" y="13"/>
+      <point x="219" y="-15" type="curve"/>
+      <point x="211" y="3" smooth="yes"/>
+      <point x="207" y="40" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="6" width="-21" />
+      <hstem pos="583" width="-20" />
+      <vstem pos="119" width="138" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="6" width="-21" />
+      <hstem pos="583" width="-20" />
+      <vstem pos="87" width="120" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

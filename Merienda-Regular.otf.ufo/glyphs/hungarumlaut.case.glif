@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut.case" format="1">
+  <advance width="450"/>
+  <outline>
+    <contour>
+      <point x="70" y="853" type="curve" name="hr00"/>
+      <point x="140" y="884"/>
+      <point x="240" y="969"/>
+      <point x="270" y="1044" type="curve"/>
+      <point x="261" y="1058"/>
+      <point x="239" y="1090"/>
+      <point x="188" y="1092" type="curve"/>
+      <point x="162" y="1007"/>
+      <point x="94" y="929"/>
+      <point x="42" y="888" type="curve"/>
+      <point x="46" y="872"/>
+      <point x="55" y="857"/>
+    </contour>
+    <contour>
+      <point x="260" y="853" type="curve"/>
+      <point x="330" y="884"/>
+      <point x="430" y="969"/>
+      <point x="460" y="1044" type="curve"/>
+      <point x="451" y="1058"/>
+      <point x="429" y="1090"/>
+      <point x="378" y="1092" type="curve"/>
+      <point x="352" y="1007"/>
+      <point x="284" y="929"/>
+      <point x="232" y="888" type="curve"/>
+      <point x="236" y="872"/>
+      <point x="245" y="857"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="874" width="-21" />
+      <hstem pos="1092" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

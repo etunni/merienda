@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.case" format="1">
+  <advance width="450"/>
+  <outline>
+    <contour>
+      <point x="370" y="866" type="curve" smooth="yes" name="hr00"/>
+      <point x="392" y="866"/>
+      <point x="412" y="868"/>
+      <point x="442" y="877" type="curve"/>
+      <point x="338" y="993"/>
+      <point x="381" y="1102"/>
+      <point x="278" y="1102" type="curve"/>
+      <point x="235" y="1052"/>
+      <point x="210" y="1012"/>
+      <point x="90" y="938" type="curve"/>
+      <point x="91" y="889"/>
+      <point x="122" y="862"/>
+      <point x="141" y="849" type="curve"/>
+      <point x="211" y="889"/>
+      <point x="245" y="930"/>
+      <point x="275" y="976" type="curve"/>
+      <point x="296" y="891" smooth="yes"/>
+      <point x="309" y="866" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="870" width="-21" />
+      <hstem pos="1102" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.case" format="1">
+  <advance width="450"/>
+  <outline>
+    <contour>
+      <point x="169" y="1066" type="curve" smooth="yes" name="hr00"/>
+      <point x="144" y="1066"/>
+      <point x="130" y="1061"/>
+      <point x="117" y="1055" type="curve"/>
+      <point x="226" y="952"/>
+      <point x="166" y="854"/>
+      <point x="264" y="854" type="curve"/>
+      <point x="304" y="900"/>
+      <point x="326" y="937"/>
+      <point x="435" y="1006" type="curve"/>
+      <point x="434" y="1048"/>
+      <point x="410" y="1071"/>
+      <point x="396" y="1082" type="curve"/>
+      <point x="326" y="1036"/>
+      <point x="292" y="988"/>
+      <point x="263" y="935" type="curve"/>
+      <point x="243" y="1039" smooth="yes"/>
+      <point x="221" y="1066" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="875" width="-21" />
+      <hstem pos="1082" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
