@@ -2,7 +2,7 @@
 
 Merienda has soft shapes, is slightly condensed, and has a rhythm which is an invitation to read short pieces of text. It is ideal for headlines which call for height, as its strokes resemble those of a brush and deliver freshness and a dynamic touch in the development of words.
 
-![Sample of Merienda Regular.](Chivo.jpg "Merienda")
+![Sample of Merienda Regular.](merienda-REG-google.jpg "Merienda")
 
 ### Designer
 
