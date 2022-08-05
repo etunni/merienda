@@ -1,9 +1,6 @@
 {
 .appVersion = "3133";
 .formatVersion = 3;
-DisplayStrings = (
-LIH
-);
 axes = (
 {
 name = Weight;
@@ -45,6 +42,10 @@ wght = {
 900 = 190;
 };
 };
+},
+{
+name = "Variable Font Origin";
+value = UUID0;
 }
 );
 date = "2017-11-28 20:27:58 +0000";
@@ -293,7 +294,7 @@ tag = subs;
 fontMaster = (
 {
 axesValues = (
-99
+100
 );
 customParameters = (
 {
@@ -503,14 +504,17 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = paramArea;
 value = "500";
 },
 {
+disabled = 1;
 name = paramDepth;
 value = "30";
 },
 {
+disabled = 1;
 name = paramOver;
 value = "0";
 },
@@ -86930,8 +86934,8 @@ axesValues = (
 80
 );
 instanceInterpolations = {
-"BF8042A9-B348-454C-A59B-E2F834F64B4C" = -0.20879;
-UUID0 = 1.20879;
+"BF8042A9-B348-454C-A59B-E2F834F64B4C" = -0.22222;
+UUID0 = 1.22222;
 };
 name = Light;
 weightClass = 300;
@@ -86941,8 +86945,7 @@ axesValues = (
 100
 );
 instanceInterpolations = {
-UUID0 = 0.97059;
-UUID1 = 0.02941;
+UUID0 = 1;
 };
 name = Regular;
 },
@@ -86951,8 +86954,8 @@ axesValues = (
 110
 );
 instanceInterpolations = {
-UUID0 = 0.67647;
-UUID1 = 0.32353;
+UUID0 = 0.69697;
+UUID1 = 0.30303;
 };
 name = Medium;
 weightClass = 500;
@@ -86962,8 +86965,8 @@ axesValues = (
 125
 );
 instanceInterpolations = {
-UUID0 = 0.23529;
-UUID1 = 0.76471;
+UUID0 = 0.24242;
+UUID1 = 0.75758;
 };
 name = SemiBold;
 weightClass = 600;
@@ -86997,7 +87000,7 @@ axesValues = (
 instanceInterpolations = {
 "BF8042A9-B348-454C-A59B-E2F834F64B4C" = 1;
 };
-name = ExtraBold;
+name = Black;
 weightClass = 900;
 }
 );
