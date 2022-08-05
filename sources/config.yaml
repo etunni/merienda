@@ -1,0 +1,7 @@
+    sources:
+        - Merienda.glyphs
+    outputDir: "../fonts"
+    familyName: Merienda
+    buildVariable: false
+
+
